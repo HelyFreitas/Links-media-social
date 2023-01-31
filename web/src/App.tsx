@@ -18,23 +18,23 @@ function App() {
         </div>
         <section className="links">
           <a className="first" href="">
-            <GithubLogo className="logo-git" size={30} weight="fill" />
+            <GithubLogo className="logos" weight="fill" />
             Github
           </a>
           <a className="second" href="">
-            <InstagramLogo className="logo-insta" size={30} weight="fill" />
+            <InstagramLogo className="logos" weight="fill" />
             Instagram
           </a>
           <a className="third" href="">
-            <LinkedinLogo className="logo-link" size={30} weight="fill" />
+            <LinkedinLogo className="logos" weight="fill" />
             Linkedin
           </a>
           <a className="bedroom" href="">
-            <DiscordLogo className="logo-dc" size={30} weight="fill" />
+            <DiscordLogo className="logos" weight="fill" />
             Discord
           </a>
           <a className="fifth" href="">
-            <YoutubeLogo className="logo-yt" size={30} weight="fill" />
+            <YoutubeLogo className="logos" weight="fill" />
             Youtube
           </a>
         </section>
